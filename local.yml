@@ -1,0 +1,9 @@
+proxies:
+  - name: "HOME"
+    type: http
+    server: 192.168.0.103
+    port: 7890
+  - name: "PC1268"
+    type: http
+    server: 192.168.3.144
+    port: 7890
